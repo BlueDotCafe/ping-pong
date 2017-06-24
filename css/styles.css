@@ -3,7 +3,7 @@
   width: 260px;
   background-color: #fcd200;
   margin-left: 100px;
-  font-weight: bold;
+  font-weight: lighter;
   font-family: monospace;
   color: white;
   font-size: 16pt;
@@ -32,15 +32,19 @@ a {
   width: 940px;
   height: 1098px;
   background-color: rgba(237, 36, 11, 0.71);
-  font-weight: bold;
+  font-weight: lighter;
   font-family: monospace;
   color: white;
-  font-size: 13pt;
+  font-size: 15pt;
   display: block;
   margin: auto;
   text-align: center;
   margin-left: 100px;
   border: 5px solid white;
+}
+
+h4 {
+  font-size: 18pt;
 }
 
 body {
@@ -51,7 +55,9 @@ background-color: rgba(253, 217, 0, 0.34);
   width: 260px;
   background-color: #81cfe7;
   color: white;
-  font-weight: bold;
+  font-weight: lighter;
+  border: 5px solid white;
+  font-size: 13pt;
 }
 
 #number1 {
