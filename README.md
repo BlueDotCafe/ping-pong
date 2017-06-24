@@ -1,4 +1,4 @@
-# _Ping Pong Game_
+# _Ping Pong Game   https://bluedotcafe.github.io/ping-pong/_
 
 #### _A portfolio piece demonstrating arrays and looping with an input value from user. June 24, 2017_
 
