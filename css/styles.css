@@ -9,7 +9,6 @@
   font-size: 17pt;
   border: 10px solid rgba(237, 36, 11, 0.71);
   border-radius: 10px;
-
 }
 
 .box {
@@ -32,7 +31,7 @@ a {
 
 img {
   height: 240px;
-  margin-left: 120px;
+  margin-left: 135px;
 }
 
 #body-col {
