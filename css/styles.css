@@ -6,8 +6,10 @@
   font-weight: lighter;
   font-family: monospace;
   color: white;
-  font-size: 16pt;
-  border: 5px solid rgba(237, 36, 11, 0.71);
+  font-size: 17pt;
+  border: 10px solid rgba(237, 36, 11, 0.71);
+  border-radius: 10px;
+
 }
 
 .box {
@@ -17,15 +19,20 @@
 
 a {
   color: #81cfe7;
+  font-weight: bolder;
 }
 
 #header-col {
   height: 260px;
   width: 680px;
-  background-image: url(../img/images.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  border: 5px solid #81cfe7;
+  border: 10px solid #81cfe7;
+  border-radius: 10px;
+  background-color: white;
+}
+
+img {
+  height: 240px;
+  margin-left: 120px;
 }
 
 #body-col {
@@ -35,16 +42,24 @@ a {
   font-weight: lighter;
   font-family: monospace;
   color: white;
-  font-size: 15pt;
+  font-size: 16pt;
   display: block;
   margin: auto;
   text-align: center;
   margin-left: 100px;
-  border: 5px solid white;
+  border: 10px solid white;
+  border-radius: 10px;
 }
 
 h4 {
-  font-size: 18pt;
+  font-size: 19pt;
+  background-color: #81cfe7;
+  border: 10px solid white;
+  border-radius: 10px;
+  margin-left: 125px;
+  margin-right: 125px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 body {
@@ -56,8 +71,9 @@ background-color: rgba(253, 217, 0, 0.34);
   background-color: #81cfe7;
   color: white;
   font-weight: lighter;
-  border: 5px solid white;
-  font-size: 13pt;
+  border: 10px solid white;
+  font-size: 14pt;
+  border-radius: 10px;
 }
 
 #number1 {
